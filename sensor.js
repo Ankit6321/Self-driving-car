@@ -37,9 +37,9 @@ class Sensor{
     if(touches.length==0){
       return null;
     }else{
-      const offsets = touches.map(e => e.offsets);
+      const offsets = touches.map(e => e.offset);
       const minoffset=Math.min(...offsets);
-      return touches.find(e=>e.offsets==minoffset);
+      return touches.find(e=>e.offset==minoffset);
     }
   }
 
@@ -84,7 +84,7 @@ class Sensor{
 
       ctx.beginPath();
       ctx.lineWidth=2;
-      ctx.strokeStyle = "black";
+      ctx.strokeStyle = "red";
       ctx.moveTo(
         this.rays[i][1].x,
         this.rays[i][1].y
