@@ -5,9 +5,13 @@ This project demonstrates the fundamental concepts behind autonomous driving suc
 
 ---
 
-## 🎥 Demo Preview
+## 🎥 Demo
 
-![Self Driving Car Demos](output1.gif)(output2.gif)
+### 🟢 Demo 1:
+![Self-Driving Car Demo 1](output1.gif)
+
+### 🟣 Demo 2:
+![Self-Driving Car Demo 2](output2.gif)
 
 ---
 
