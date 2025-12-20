@@ -1,28 +1,31 @@
-# Self-driving-car 🚗
+# 🚗 Self-Driving Car Simulation (JavaScript)
 
-A browser-based self-driving car simulation built using **JavaScript** and **HTML Canvas**.  
-This project explores the basic concepts behind autonomous driving such as car movement,
-sensor simulation, and collision detection.
-
-⚠️ **Project Status:** In Progress  
-The project is currently under development and will be completed soon.
+A **browser-based self-driving car simulation** built using **vanilla JavaScript** and **HTML Canvas**, without any external libraries.  
+This project demonstrates the fundamental concepts behind autonomous driving such as car physics, sensor simulation, collision detection, and AI-based decision making.
 
 ---
 
-## 🧠 Features (Implemented / In Progress)
-- Car movement and controls
-- Road and lane rendering
-- Basic sensor simulation
-- Collision detection
-- Simple AI decision-making logic *(in progress)*
+## 🎥 Demo Preview
+
+![Self Driving Car Demos](output1.gif)(output2.gif)
+
+---
+
+## 🧠 Features
+- 🚘 Car movement with realistic controls
+- 🛣️ Road and lane rendering using HTML Canvas
+- 📡 Sensor simulation using ray casting
+- 💥 Collision detection with road borders and traffic
+- 🤖 AI-based decision making using a simple neural network
+- 👀 Visualized sensors and decision process
 
 ---
 
 ## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
-- HTML Canvas API
+- HTML  
+- CSS  
+- JavaScript  
+- HTML Canvas API  
 
 ---
 
